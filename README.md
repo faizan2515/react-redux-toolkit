@@ -4,7 +4,7 @@ In this React project using Vite, I implemented Redux Toolkit by creating two si
 
 ## Demo
 
-Demo is available [here](https://my-chatgpt-clone.netlify.app/)
+Demo is available [here](https://using-redux-toolkit.netlify.app/)
 
 ## Run Locally
 
